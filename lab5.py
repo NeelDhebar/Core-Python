@@ -1,4 +1,4 @@
-'''students = {}
+students = {}
 stdCount = int(input("Number of students: "))
 
 for i in range(stdCount):
@@ -7,7 +7,7 @@ for i in range(stdCount):
     marks = int(input("Marks: "))
     students[rollNum] = [name, marks]
 
-print(students)'''
+print(students)
 
 l = []
 eCount = int(input("Number of elements: "))

@@ -1,4 +1,4 @@
-"""c = input("Enter a character: ")
+c = input("Enter a character: ")
 
 if c == "a":
     print("You have entered a")
@@ -37,7 +37,7 @@ elif marks > 40 and marks < 60:
 elif marks < 40:
     print("Fail")
 elif marks > 100:
-    print("Invalid marks")"""
+    print("Invalid marks")
 
 rows = int(input("Number of rows: "))
 
