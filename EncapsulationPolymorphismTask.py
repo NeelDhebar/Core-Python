@@ -1,5 +1,5 @@
 class LimitExceededError(Exception):
-    print
+    pass
 
 class ATM():
 
