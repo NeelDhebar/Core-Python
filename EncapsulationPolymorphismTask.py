@@ -26,7 +26,7 @@ class ATM():
   
         else:
             self.__total += amount
-            print("Transation Successful")
+            print("Transaction Successful")
 
 class HDFCBank(ATM):
 
